@@ -44,7 +44,7 @@ main h1{
      overflow: hidden;
 }
 .container , .container2{
-   
+    transform: translateY(-40px);
     position:relative; 
     z-index: 3; 
     /* background-image: url(cel.png); */
