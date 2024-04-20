@@ -40,8 +40,11 @@ main h1{
     z-index: 0;
     visibility: hidden;
 }
+.container2{
+     overflow: hidden;
+}
 .container , .container2{
-    overflow: hidden;
+   
     position:relative; 
     z-index: 3; 
     /* background-image: url(cel.png); */
